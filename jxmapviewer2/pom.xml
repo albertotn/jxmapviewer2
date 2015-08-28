@@ -5,6 +5,7 @@
   <version>2.0</version>
   <name>jxmapviewer2</name>
   <description>This project is based on the JXMapViewer component of SwingX-WS.</description>
+  <url>https://github.com/msteiger/jxmapviewer2</url>  
   <build>
     <sourceDirectory>src</sourceDirectory>
     <resources>
@@ -26,7 +27,6 @@
       </plugin>
     </plugins>
   </build>
-  <url>https://github.com/msteiger/jxmapviewer2</url>
   <dependencies>
   	<dependency>
   		<groupId>commons-logging</groupId>

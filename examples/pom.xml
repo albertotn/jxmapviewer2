@@ -3,6 +3,9 @@
   <groupId>org.jdesktop.swingx</groupId>
   <artifactId>jxmapviewer2-examples</artifactId>
   <version>0.1</version>
+  <name>jxmapviewer2 Examples</name>
+  <description>Example of use of jxmapviewer2.</description>
+  <url>https://github.com/msteiger/jxmapviewer2</url>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <resources>
@@ -36,6 +39,4 @@
   		<version>2.0</version>
   	</dependency>
   </dependencies>
-  <name>jxmapviewer2 Examples</name>
-  <url>https://github.com/msteiger/jxmapviewer2</url>
 </project>
