@@ -17,7 +17,7 @@ Display a map inside your desktop application, like google maps, bings or yahoo 
 #### What we have done so far ..
 * set maven as default dependency manager for this project
 * update maven branch to lastest release (even for jxmapviewer2-examples)
-
+* added mouse click example
 
  
 #### What we plan to do ..
